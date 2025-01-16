@@ -45,7 +45,7 @@ The `cleanFiles` function reads the current members file, identifies inactive me
 
 ## Requirements
 
-Python 3.x
+Python 3.x 
 
 ## License
 
